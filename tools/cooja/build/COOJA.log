@@ -1,2 +1,7 @@
 [08:48:51 - AWT-EventQueue-0] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
 [08:48:51 - AWT-EventQueue-0] [GUI.java:2876] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[08:50:04 - AWT-EventQueue-0] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[08:56:34 - AWT-EventQueue-0] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[09:00:40 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-sink.sky TARGET=sky 
+[09:02:05 - AWT-EventQueue-0] [MspMote.java:232] [INFO] - Loading firmware from: /mnt/hgfs/sharecontiki/contiki1101/examples/ipv6/rpl-collect/udp-sink.sky
+[09:04:37 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-sender.sky TARGET=sky 
